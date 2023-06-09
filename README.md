@@ -34,7 +34,7 @@ provided dataset.
 - **Strengthen consultancy activities** (Tăng cường công tác tư vấn trung thực, trách nhiệm)
 - **Expand distribution channels** (Khai thác kênh phân phối tại các Ngân hàng qua kênh Bancassurance)
 - **In the case of low-income pensioners** (Nghiên cứu mở rộng sản phẩm cho đối tượng thu nhập khác)
-- 
-## Result
-- Promote the development of the life insurance industry in Vietnam, aiming to gain **15%** of population using life insurance in 2030 (According to the Vietnam Insurance Association, this rate has only reached less than **10%**)
 
+## Result
+- Promote the development of the life insurance industry in Vietnam, aiming to gain **15%** of population using life insurance in 2030 (According to the Vietnam Insurance Association, this rate has only reached less than **10%**).
+- Create trust for owners, improve 20% revenue in the following years.
