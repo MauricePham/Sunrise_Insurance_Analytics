@@ -9,21 +9,21 @@ identifying such customers, the company intends to proactively reach out to them
 program in a bid to retain them.
 
 To achieve this, Sunrise Life Insurance will need to employ predictive analytics techniques that can analyze vast
-amounts of data on customer and other relevant factors. Once the predictive model has been developed,
-company will use it to generate a list of customers who are at high risk of lapsing. The company will then reach out
+amounts of data on customers and other relevant factors. Once the predictive model has been developed,
+the company will use it to generate a list of customers who are at high risk of lapsing. The company will then reach out
 to these customers with tailored offers that are designed to meet their unique needs and preferences.
 
-The goal is to leverage data insights to improve customer satisfaction, reduce lapse, and increase customer
-loyalty.
+**The goal is to leverage data insights to improve customer satisfaction, reduce lapse, and increase customer
+loyalty.**
 
 ## **Tasks**
-1. SQL - Provide data for The Marketing department
-2. Data Wrangling 
-Define types of Missing Data (MCAR, MAR, MNAR)
-Use MICE imputation for missingness (in Annual Income)
-3. EDA (visualize to find insights), Data visualization with Pygwalker
-4. Statistical Analysis (Hypothesis Testing & Mann-Whitney-U
-5. Building a classification model to predict a customer who is likely to lapse based on the
+1. SQL - Provide needed data for The Marketing department
+2. Data Wrangling
+- Define types of Missing Data (MCAR, MAR, MNAR)
+- Use MICE imputation for missingness (in Annual Income)
+4. EDA (visualize to find insights), Data visualization with Pygwalker
+5. Statistical Analysis (Hypothesis Testing with Mann-Whitney-U)
+6. Building a classification model to predict a customer who is likely to lapse based on the
 provided dataset.
 - Label Encoder
 - Upsampling data (imbalanced data)
